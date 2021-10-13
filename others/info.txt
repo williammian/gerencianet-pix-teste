@@ -1,0 +1,26 @@
+Teste API Pix Gerencianet
+
+https://dev.gerencianet.com.br/docs
+
+https://github.com/gerencianet/gn-api-sdk-java-examples
+
+---------------------------------------------------------
+
+Criar conta na Gerencianet
+
+No menu API, em Minhas Aplicações, criar Nova Aplicação
+
+	Obter o Client ID e o Client Secret de produção e homologação
+
+Em Meus Certificados
+
+	Criar e fazer o donwload dos certificados de produção e homologação
+	Ex: homologacao.p12
+		producao.p12
+		
+----------------------------------------------------------
+
+Criar chave PIX para a conta na Gerencianet
+
+----------------------------------------------------------
+
